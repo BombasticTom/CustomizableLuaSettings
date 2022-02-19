@@ -1,0 +1,105 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				310
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EduardoIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				304
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EduardoLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				288
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EduardoDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				329
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EduardoUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				304
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EduardoRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				310
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "EduardoWell",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-75,
+				310
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "EduardoIdle",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EDUARDOOO",
+	"position": [
+		-50,
+		380
+	],
+	"healthicon": "eduardo",
+	"flip_x": false,
+	"healthbar_colors": [
+		17,
+		113,
+		43
+	],
+	"camera_position": [
+		130,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
